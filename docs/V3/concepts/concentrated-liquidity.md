@@ -22,6 +22,6 @@ Concentrated liquidity serves as a mechanism to let the market decide what a sen
 
 To achieve custom liquidity allocation, the once continuous spectrum of relative price space has been partitioned with *ticks*. Ticks are the boundaries between discrete areas in price space. Ticks are equivalently spaced in a given pair. The spaces between ticks may vary pool to pool and are determined by the corresponding pools fee level. 
 
- each equivalently spaced in a given pair, as the spot price changes during swapping, a new tick will become active as the current one is depleted. As the 
+As the spot price changes during swapping, a new tick will become active as the current one is depleted. 
 
 [^1]: L<sup>2</sup> is a notational change. In previous versions, this is k.
